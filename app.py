@@ -1,5 +1,5 @@
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = ""
 
 
 import streamlit as st
